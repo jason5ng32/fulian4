@@ -3,7 +3,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <head>
 
-<title>复联4电影票整蛊二维码</title>
+<title>复联 4 电影票整蛊二维码</title>
 <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css" integrity="sha384-nn4HPE8lTHyVtfCBi5yW9d20FjT8BJwUXyWZT9InLYax14RDjBj46LmSztkmNP9w" crossorigin="anonymous">
 <style>
 body {padding-top: 100px;padding-left: 20px; margin: 0 auto;}
